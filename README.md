@@ -49,7 +49,11 @@ To use the Calculator App, follow these steps:
 
 6. Enjoy the modern and visually appealing user interface provided by the Neumorphism library.
 
-https://github.com/Ashfaque9967/Calc./assets/110349538/a0bea5d1-1ec6-4e35-acc6-85851b6fafe7
+
+
+https://github.com/Ashfaque9967/Calc./assets/110349538/a9a14164-9aea-46d8-a7ee-acfd7ca69669
+
+
 
 ## Contributing
 
