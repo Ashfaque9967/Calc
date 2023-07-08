@@ -1,8 +1,6 @@
-# Calc. - Calculator App
 
-<p align="center">
-  <img src="https://github.com/Ashfaque9967/Calc./assets/110349538/0928702c-7c5c-4802-a14e-e9a4915f0709" width="350" title="sample">
-</p>
+## Calc. -Calculator App
+![calcicon_round](https://github.com/Ashfaque9967/Calc./assets/110349538/018f8479-8f07-4cb4-a4e0-accd43ceba65)
 
 ## Description
 
@@ -51,7 +49,9 @@ To use the Calculator App, follow these steps:
 
 6. Enjoy the modern and visually appealing user interface provided by the Neumorphism library.
 
-**Note:** You may include a short video demonstration of the Calculator App to help users visualize its functionality. Embed the video using the appropriate markdown syntax or provide a link to the video in this section.
+<p align="center">
+  <img src="https://github.com/Ashfaque9967/Calc./assets/110349538/0928702c-7c5c-4802-a14e-e9a4915f0709" width="350" title="sample">
+</p>
 
 ## Contributing
 
