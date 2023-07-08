@@ -1,5 +1,9 @@
 # Calc. - Calculator App
 
+<p align="center">
+  <img src="https://github.com/Ashfaque9967/Calc./assets/110349538/0928702c-7c5c-4802-a14e-e9a4915f0709" width="350" title="sample">
+</p>
+
 ## Description
 
 Calc is a calculator app that allows you to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It also provides a feature to calculate the exponentiation of a number to a specified power. The user interface (UI) of the app is designed using the Neumorphism library to create a sleek and modern look.
