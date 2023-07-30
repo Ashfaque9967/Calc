@@ -19,7 +19,7 @@ To use the Calculator App, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/Ashfaque9967/Calc.
+   git clone https://github.com/Ashfaque9967/Calc
    ```
 
 2. Open the project in your preferred development environment.
